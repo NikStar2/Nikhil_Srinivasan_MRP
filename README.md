@@ -27,7 +27,7 @@ The project includes training scripts, evaluation pipelines, and a Streamlit das
 │ ├── evaluation_results.csv # Final metrics from the evaluation pipeline
 │ └── figures/ # Exported charts (lollipop, slope, heatmap, etc.)
 │
-├── Project_Report.pdf # Final project report
+├── MRP_Report.pdf # Final project report
 ├── README.md # This file
 └── Requirements.txt # Python dependencies
 ```
