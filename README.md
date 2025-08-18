@@ -15,7 +15,7 @@ The project includes training scripts, evaluation pipelines, and a Streamlit das
 ```
 ├── code/
 │ ├── eda/ # Exploratory data analysis scripts
-│ ├── main/ # Unified evaluation + dashboard
+│ ├── main/ # evaluation + dashboard
 │ │ ├── main.py # Runs evaluation for LEDGAR, ContractNLI, CUAD
 │ │ └── dashboard.py # Streamlit dashboard for visualizing results
 │ ├── model/ # Training scripts for each dataset
@@ -25,7 +25,7 @@ The project includes training scripts, evaluation pipelines, and a Streamlit das
 │
 ├── results/
 │ ├── evaluation_results.csv # Final metrics from the evaluation pipeline
-│ └── figures/ # Exported charts (lollipop, slope, heatmap, etc.)
+│ └── figures/ # Exported charts
 │
 ├── MRP_Report.pdf # Final project report
 ├── README.md # This file
